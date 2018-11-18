@@ -1,6 +1,22 @@
 # l1ntit
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that a bot that gives lint reviews on PRs
+<p align="center">
+  <a href="https://github/apps/l1ntit" target="blank"><img src="https://github.com/k1b1b0t.png" width="150" alt="achievibit Logo" />
+  </a>
+  <h2 align="center">l1ntit</h2>
+</p>
+
+> A GitHub App built with [Probot](https://github.com/probot/probot) that gives lint reviews on PRs.
+
+Currently works with typescript and tslint specifically.
+
+## Plans
+Add support to the following basic web technologies:
+- [scss](https://github.com/sasstools/sass-lint)
+- javascript
+- html
+- [github markdown](https://github.com/DavidAnson/markdownlint)
+- [json files](https://github.com/zaach/jsonlint)
 
 ## Setup
 
